@@ -1,0 +1,9 @@
+Project2\Seller\controllers\AuctionController.class
+Project2\Seller\models\AuctionRequestResponse.class
+Project2\Seller\models\BidMessage.class
+Project2\Seller\configuration\AWSConfig.class
+Project2\Seller\services\AuctionService.class
+Project2\Seller\SellerApplication.class
+Project2\Seller\services\aws\SQSService.class
+Project2\Seller\models\AuctionRequest.class
+Project2\Seller\services\aws\SNSService.class
