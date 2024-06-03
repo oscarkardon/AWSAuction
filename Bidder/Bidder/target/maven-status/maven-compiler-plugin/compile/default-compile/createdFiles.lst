@@ -1,0 +1,4 @@
+Project2\Bidder\configurations\AWSConfig.class
+Project2\Bidder\services\aws\SQSService.class
+Project2\Bidder\services\BidderService.class
+Project2\Bidder\BidderApplication.class
