@@ -36,7 +36,7 @@ public class BidderService {
 
     @Value("${bidderEmail}")
     private String bidderEmail;
-    @Value("${accoutId}")
+    @Value("${accountId}")
     private String accountId;
 
 
